@@ -92,5 +92,5 @@ Dataset :\n
 Pima Indians Diabetes Dataset
 
 ✨ Author
-Built by Susahnt Kumar
+Built by Sushant Kumar
 Inspired by real-world healthcare challenges.
