@@ -6,8 +6,8 @@ A full-stack machine learning web application that predicts the likelihood of di
 
 ## 🚀 Live Demo
 
-- 🔗 Frontend: [https://your-netlify-url.netlify.app](https://your-netlify-url.netlify.app)
-- 🔗 Backend API: [https://your-backend-url.onrender.com](https://your-backend-url.onrender.com)
+- 🔗 Frontend: [https://se-project-red.vercel.app/](https://se-project-red.vercel.app/)
+- 🔗 Backend API: [https://se-project-4jpf.onrender.com](https://se-project-4jpf.onrender.com)
 
 ---
 
